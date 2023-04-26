@@ -1,4 +1,4 @@
-# Gold_Price_Predictior
+# Gold_Price_Predictor
 Random forest regression is used to predict the price of gold.
 
 ## About:
